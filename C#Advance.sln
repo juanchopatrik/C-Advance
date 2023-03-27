@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods1", "Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apuntadores1", "Apuntadores1\Apuntadores1.csproj", "{197DADF5-A635-4DB6-A978-88AEA536FA20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentificarConexionInterfaz", "IdentificarConexionInterfaz\IdentificarConexionInterfaz.csproj", "{D8C6AE29-4EE0-4872-B92C-3BF90BBC61D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacezConMetodo", "InterfacezConMetodo\InterfacezConMetodo.csproj", "{17D98D85-32BE-40F5-A5D8-660BDBC64DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{197DADF5-A635-4DB6-A978-88AEA536FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{197DADF5-A635-4DB6-A978-88AEA536FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{197DADF5-A635-4DB6-A978-88AEA536FA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C6AE29-4EE0-4872-B92C-3BF90BBC61D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C6AE29-4EE0-4872-B92C-3BF90BBC61D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C6AE29-4EE0-4872-B92C-3BF90BBC61D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C6AE29-4EE0-4872-B92C-3BF90BBC61D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D98D85-32BE-40F5-A5D8-660BDBC64DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D98D85-32BE-40F5-A5D8-660BDBC64DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D98D85-32BE-40F5-A5D8-660BDBC64DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D98D85-32BE-40F5-A5D8-660BDBC64DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
