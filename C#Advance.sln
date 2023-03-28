@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones1", "Excepciones
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifeTime1", "ObjectLifeTime1\ObjectLifeTime1.csproj", "{9E33194B-3A04-4FEF-973C-B3DEF9228844}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetosDesechables1", "ObjetosDesechables1\ObjetosDesechables1.csproj", "{167C5061-B76E-4C85-8AAA-35A976B9FA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetosDesechables&Finalizables1", "ObjetosDesechables&Finalizables1\ObjetosDesechables&Finalizables1.csproj", "{775F2B41-17C3-4185-B7DE-6477B9155A44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{9E33194B-3A04-4FEF-973C-B3DEF9228844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E33194B-3A04-4FEF-973C-B3DEF9228844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E33194B-3A04-4FEF-973C-B3DEF9228844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167C5061-B76E-4C85-8AAA-35A976B9FA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167C5061-B76E-4C85-8AAA-35A976B9FA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167C5061-B76E-4C85-8AAA-35A976B9FA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167C5061-B76E-4C85-8AAA-35A976B9FA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775F2B41-17C3-4185-B7DE-6477B9155A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775F2B41-17C3-4185-B7DE-6477B9155A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775F2B41-17C3-4185-B7DE-6477B9155A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775F2B41-17C3-4185-B7DE-6477B9155A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

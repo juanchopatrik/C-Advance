@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{167C5061-B76E-4C85-8AAA-35A976B9FA7E}</ProjectGuid>
+    <ProjectGuid>{775F2B41-17C3-4185-B7DE-6477B9155A44}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObjetosDesechables1</RootNamespace>
-    <AssemblyName>ObjetosDesechables1</AssemblyName>
+    <RootNamespace>ObjetosDesechables_Finalizables1</RootNamespace>
+    <AssemblyName>ObjetosDesechables&amp;Finalizables1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
