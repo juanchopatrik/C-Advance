@@ -31,8 +31,9 @@ namespace ObjetosDesechables_Finalizables1
         {
             if ( usoDispose == false)
             {
-                Console.WriteLine($@"Estamos en limpieza, aqui liberamos
-                                    no administrados {a}");
+                Console.WriteLine($@"
+                Estamos en limpieza, aqui liberamos
+                no administrados {a}");
             }
 
             usoDispose = true;
